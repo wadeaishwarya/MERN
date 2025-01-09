@@ -37,7 +37,7 @@ c.
 cd MERN-mainClone
 Clone the project repository by running:
 
-git clone https://github.com/your-repository-link.git
+git clone https://github.com/wadeaishwarya/MERN.git
 
 After cloning, navigate into the project folder:
 cd MERN-main (replace this with the actual zip file name)
