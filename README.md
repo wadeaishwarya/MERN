@@ -24,16 +24,16 @@ Project Setup Instructions
 1. Download and Clone the Project
 Open Command Prompt (CMD).
 Navigate to your Desktop by typing:
-bash
-a.
+
+(1)
 cd Desktop
 Create a new folder for the project:
 
-b.
+(2)
 mkdir MERN-mainClone
 Navigate into the newly created folder:
 
-c.
+(3)
 cd MERN-mainClone
 Clone the project repository by running:
 
@@ -42,11 +42,11 @@ git clone https://github.com/wadeaishwarya/MERN.git
 After cloning, navigate into the project folder:
 cd MERN-main (replace this with the actual zip file name)
 
-3. Open the Project in Visual Studio Code
+2. Open the Project in Visual Studio Code
 Open the project folder in Visual Studio Code by running:
 code .
 
-4. Navigate to Frontend and Backend
+3. Navigate to Frontend and Backend
 Open the terminal in Visual Studio Code and split it into three parts.
 For the Frontend, type the following in the first terminal:
 cd ./Frontend/
@@ -57,10 +57,10 @@ cd ./Backend/
 For Backend/src, type the following in the third terminal:
 cd ./Backend/src/
 
-5. Install Dependencies
+4. Install Dependencies
 In each terminal (Frontend, Backend, Backend/src), run the following command to install required dependencies:
 npm install
 
-7. Run the Application
+5. Run the Application
 After installing dependencies, run the following command in all three terminals to start the application:
 npm run dev
