@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  front-family: 'Poppins', sans-serif;
+}
+@layer base{
+  .img-shadow{
+    filter: drop-shadow(40px 50px 25px #4f5052);
+  }
+  .img-shadow{
+    filter: drop-shadow(10px 30px 15px #333336);
+  }
+}
